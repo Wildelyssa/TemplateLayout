@@ -1,6 +1,6 @@
 # Template Layout 
 
-**Template lyaout for a portfolio or project website**
+**Template layout for a portfolio or project website**
 
 ## Tech Used
 * **HTML**
